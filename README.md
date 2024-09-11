@@ -1,4 +1,4 @@
-# Automatic Control - Rotary Inverted Pendulum Stabilization
+# LMI PROJECT (Automatic Control) - Rotary Inverted Pendulum Stabilization
 
 ## Project Overview
 This project focuses on stabilizing a rotary inverted pendulum system using state-space control theory. The pendulum, which is inherently unstable, is stabilized around its upright position using linear feedback control techniques. The project includes a detailed theoretical analysis of the system’s dynamics, linearization, stability, controllability, and controller design.
